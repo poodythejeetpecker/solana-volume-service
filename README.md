@@ -11,7 +11,7 @@ Unlock the potential of your Solana token by amplifying its trading volume with 
 - **Boost Your Token’s Profile:** Our service allows you to significantly increase the trading volume of any Solana token listed on Jupiter (verified or not - doesn't matter!), elevating its visibility and status within the market.
 - **Trend on Major Platforms:** Higher trading volumes can lead to your token being featured as a trending asset on various crypto analytics platforms, which attracts more attention from investors and traders.
 - **Fully Managed Service:** Enjoy a hassle-free experience with our fully managed volume bot service. No need to worry about hardware, software, or technical expertise. Our team handles everything using robust cloud services to ensure optimal performance, uptime, and speed.
-- **Zero Additional Liquidity Needed:** There is no need to provide extra liquidity. Our service requires just a one-time donation for a full 5 days of volume boosting, making it a cost-effective solution.
+- **Zero Additional Liquidity Needed:** There is no need to provide extra liquidity. Our service requires just a one-time donation for an agreed upon output volume, making it a cost-effective solution.
 
 ## Advanced Technology for Authentic Engagement:
 
